@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B8DDF02E-ABD0-4A94-B8E3-397D1276D056}</ProjectGuid>
+    <ProjectGuid>{E731B837-23C2-4B08-A776-0874882C63F3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Euler</RootNamespace>
-    <AssemblyName>Euler</AssemblyName>
+    <RootNamespace>problem_007</RootNamespace>
+    <AssemblyName>problem_007</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
